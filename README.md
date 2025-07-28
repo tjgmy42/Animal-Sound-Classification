@@ -1,7 +1,5 @@
 # Animal Sound Identification Feature for ZooSite Application
 
-A machine learning-powered mobile application that identifies animal sounds using Convolutional Neural Networks (CNN) and provides detailed information about the identified animals.
-
 ## Project Information
 
 - **Author**: Anggara Saputra  
@@ -17,8 +15,6 @@ A machine learning-powered mobile application that identifies animal sounds usin
 ![Android Application System Flowchart](https://github.com/user-attachments/assets/abb34dbe-e91e-4082-a178-763c72717697)
 
 ## Dataset
-
-The project uses a comprehensive animal sound dataset for training the CNN model.
 
 **Dataset Access**: [Google Drive Link](https://drive.google.com/drive/folders/1w48fiWkJgzQO_4CYn8HJGTQcyFdNC3OL?usp=sharing)
 
